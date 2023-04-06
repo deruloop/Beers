@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  GMBNPlayer
+
+  Created by Cristiano Calicchia on 31/01/23.
+  
+*/
+
+"Beers" = "Beers";
+"Unknown error" = "Unknown error";
+"Error" = "Error";
+"Generic Error" = "Generic Error";
+"Try again!" = "Try again!";
+"Ok" = "Ok";
+"First Brewed" = "First Brewed";
+"Brewers Tips" = "Brewers Tips";
+"Food Pairing" = "Food Pairing";
+"Back" = "Back";
+"Search ..." = "Search ...";
+"Cancel" = "Cancel";
+
+
